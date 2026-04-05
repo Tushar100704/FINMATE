@@ -1,0 +1,1005 @@
+type,amount,bankAccount,party,merchant,date,ref,upiRef,category,confidence,rawSMS,time,status,isAutoDetected,smsId,upiId
+sent,29.0,X1583,,,29-11-25,227911213761,227911213761,Others,0.85,"Sent Rs.29.00 from Kotak Bank
+AC X1583 to Q376099045@ybl
+on 29-11-25.UPI Ref
+227911213761. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:18:02.042968,completed,True,1,
+received,1.0,X1583,,,29-11-25,533337286012,533337286012,Others,0.85,"Received Rs.1.00 in your Kotak
+Bank AC X1583 from
+7776840627@ptsbi on
+29-11-25.UPI
+Ref:533337286012.",2025-11-29T21:18:02.047483,completed,True,2,
+sent,1.0,X1583,,,29-11-25,230211906886,230211906886,Others,0.85,"Sent Rs.1.00 from Kotak Bank AC
+X1583 to 7776840627@ptsbi on
+29-11-25.UPI Ref
+230211906886. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:18:02.047618,completed,True,3,
+sent,49.0,X1583,,,29-11-25,948336592775,948336592775,Others,0.85,"Sent Rs.49.00 from Kotak Bank
+AC X1583 to
+gpay-11247537823@okbizaxis
+on 29-11-25.UPI Ref
+948336592775. Not you,
+https://kotak.com/KBANKT/Fraud",2025-11-29T21:18:02.047908,completed,True,4,
+sent,10.0,X1583,,,29-11-25,314848748067,314848748067,Others,0.85,"Sent Rs.10.00 from Kotak Bank
+AC X1583 to 9767902542@axl
+on 29-11-25.UPI Ref
+314848748067. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:18:10.234544,completed,True,5,
+received,1897.0,X1583,,,29-11-25,569919869255,569919869255,Others,0.85,"Received Rs.1897.00 in your
+Kotak Bank AC X1583 from
+9545948928@yescred on
+29-11-25.UPI
+Ref:569919869255.",2025-11-29T21:18:10.234693,completed,True,6,
+sent,29.0,X1583,,,28-11-25,480095255975,480095255975,Others,0.85,"Sent Rs.29.00 from Kotak Bank
+AC X1583 to Q623225458@ybl
+on 28-11-25.UPI Ref
+480095255975. Not you,
+https://kotak.com/KBANKT/Fraud",2025-11-29T21:18:10.234780,completed,True,7,
+sent,15.0,X1583,,,27-11-25,845441566539,845441566539,Others,0.85,"Sent Rs.15.00 from Kotak Bank
+AC X1583 to Q986372180@ybl
+on 27-11-25.UPI Ref
+845441566539. Not you,
+https://kotak.com/KBANKT/Fraud",2025-11-29T21:18:18.105471,completed,True,9,
+sent,37.0,X1583,,,26-11-25,089218695976,089218695976,Others,0.85,"Sent Rs.37.00 from Kotak Bank
+AC X1583 to Q623225458@ybl
+on 26-11-25.UPI Ref
+089218695976. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:18:18.105615,completed,True,10,
+sent,168.0,X1583,,,26-11-25,569609454918,569609454918,Others,0.85,"Sent Rs.168.00 from Kotak Bank
+AC X1583 to swiggy@yespay on
+26-11-25.UPI Ref
+569609454918. Not you,
+https://kotak.com/KBANKT/Fraud",2025-11-29T21:18:18.106372,completed,True,12,
+sent,168.0,X1583,,,26-11-25,569609454918,569609454918,Others,0.85,"Sent Rs.168.00 from Kotak Bank
+AC X1583 to swiggy@yespay on
+26-11-25.UPI Ref
+569609454918. Not you,
+https://kotak.com/KBANKT/Fraud",2025-11-29T21:18:26.823741,completed,True,13,
+sent,2000.0,X1583,,,25-11-25,160088797163,160088797163,Others,0.85,"Sent Rs.2000.00 from Kotak
+Bank AC X1583 to
+9545948928@yescred on
+25-11-25.UPI Ref
+160088797163. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:18:26.824123,completed,True,15,
+received,2000.0,X1583,,,25-11-25,156404333295,156404333295,Others,0.85,"Received Rs.2000.00 in your
+Kotak Bank AC X1583 from
+poweraccess.cred@axisbank on
+25-11-25.UPI
+Ref:156404333295.",2025-11-29T21:18:26.824214,completed,True,16,
+sent,2000.0,X1583,,,25-11-25,160088797163,160088797163,Others,0.85,"Sent Rs.2000.00 from Kotak
+Bank AC X1583 to
+9545948928@yescred on
+25-11-25.UPI Ref
+160088797163. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:18:35.424734,completed,True,17,
+received,2000.0,X1583,,,25-11-25,156404333295,156404333295,Others,0.85,"Received Rs.2000.00 in your
+Kotak Bank AC X1583 from
+poweraccess.cred@axisbank on
+25-11-25.UPI
+Ref:156404333295.",2025-11-29T21:18:35.424873,completed,True,18,
+sent,25.0,X1583,,,25-11-25,569507297730,569507297730,Others,0.85,"Sent Rs.25.00 from Kotak Bank
+AC X1583 to 9420586709@ybl
+on 25-11-25.UPI Ref
+569507297730. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:18:35.424950,completed,True,19,
+sent,18.0,X1583,,,25-11-25,569531309656,569531309656,Others,0.85,"Sent Rs.18.00 from Kotak Bank
+AC X1583 to 9767979953@axl
+on 25-11-25.UPI Ref
+569531309656. Not you,
+https://kotak.com/KBANKT/Fraud",2025-11-29T21:18:35.425020,completed,True,20,
+sent,36.0,X1583,,,25-11-25,677270339116,677270339116,Others,0.85,"Sent Rs.36.00 from Kotak Bank
+AC X1583 to Q623225458@ybl
+on 25-11-25.UPI Ref
+677270339116. Not you, https://",2025-11-29T21:18:35.425083,completed,True,21,
+sent,36.0,X1583,,,25-11-25,677270339116,677270339116,Others,0.85,"Sent Rs.36.00 from Kotak Bank
+AC X1583 to Q623225458@ybl
+on 25-11-25.UPI Ref
+677270339116. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:18:44.424183,completed,True,22,
+sent,29.0,X1583,,,25-11-25,564924753818,564924753818,Others,0.85,"Sent Rs.29.00 from Kotak Bank
+AC X1583 to Q623225458@ybl
+on 25-11-25.UPI Ref
+564924753818. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:18:44.424408,completed,True,23,
+sent,20.0,X1583,,,25-11-25,799183383446,799183383446,Others,0.85,"Sent Rs.20.00 from Kotak Bank
+AC X1583 to 8624016226@ibl
+on 25-11-25.UPI Ref
+799183383446. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:18:44.424504,completed,True,24,
+sent,1000.0,X1583,,,25-11-25,569513288597,569513288597,Others,0.85,"Sent Rs.1000.00 from Kotak
+Bank AC X1583 to
+boim-062923593043@boi on
+25-11-25.UPI Ref
+569513288597. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:18:44.424585,completed,True,25,
+received,83.0,X1583,,,25-11-25,,,Others,0.75,"Received Rs.83.00 in your Kotak
+Bank AC X1583 from
+sskadam6305-1@okaxis on
+25-11-25.UPI",2025-11-29T21:18:44.424667,completed,True,26,
+sent,251.0,X1583,,,24-11-25,569408227517,569408227517,Others,0.85,"Sent Rs.251.00 from Kotak Bank
+AC X1583 to swiggystores@icici
+on 24-11-25.UPI Ref
+569408227517. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:18:53.287354,completed,True,27,
+sent,37.0,X1583,,,23-11-25,923577403523,923577403523,Others,0.85,"Sent Rs.37.00 from Kotak Bank
+AC X1583 to Q623225458@ybl
+on 23-11-25.UPI Ref
+923577403523. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:18:53.287446,completed,True,28,
+sent,1.0,X1583,,,21-11-25,407764575032,407764575032,Others,0.85,"Sent Rs.1.00 from Kotak Bank AC
+X1583 to 7776840627@ptsbi on
+21-11-25.UPI Ref
+407764575032. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:18:53.287494,completed,True,29,
+received,1.0,X1583,,,21-11-25,532592233789,532592233789,Others,0.85,"Received Rs.1.00 in your Kotak
+Bank AC X1583 from
+7776840627@ptsbi on
+21-11-25.UPI
+Ref:532592233789.",2025-11-29T21:18:53.287537,completed,True,30,
+sent,29.0,X1583,,,,,,Others,0.65,"Sent Rs.29.00 from Kotak Bank
+AC X1583 to Q623225458@ybl",2025-11-29T21:18:53.287577,completed,True,31,
+received,1.0,X1583,,,21-11-25,532592233789,532592233789,Others,0.85,"Received Rs.1.00 in your Kotak
+Bank AC X1583 from
+7776840627@ptsbi on
+21-11-25.UPI
+Ref:532592233789.",2025-11-29T21:19:02.381641,completed,True,32,
+sent,29.0,X1583,,,21-11-25,796292877927,796292877927,Others,0.85,"Sent Rs.29.00 from Kotak Bank
+AC X1583 to Q623225458@ybl
+on 21-11-25.UPI Ref
+796292877927. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:19:02.381987,completed,True,33,
+sent,1.0,X1583,,,21-11-25,267607007850,267607007850,Others,0.85,"Sent Rs.1.00 from Kotak Bank AC
+X1583 to 7776840627@ptsbi on
+21-11-25.UPI Ref
+267607007850. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:19:02.382083,completed,True,34,
+sent,923.17,,,,20/11/2025,,,Others,0.7,"Rs.923.17 for reversal of txn on
+20/11/2025 IST with Kotak Bank
+Debit Card will be credited in 48
+hours. If not, visit https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:19:10.343975,completed,True,38,
+sent,107.05,X1583,,,20/11/2025,,,Others,0.75,"Txn at GITHUB, INC. via Kotak
+Bank Debit Card XX8962 on
+20/11/2025 IST failed due to
+insufficient Balance in A/C
+XX1583 Bal Rs.107.05",2025-11-29T21:19:10.344129,completed,True,39,
+sent,923.17,X8962,,,20/11/2025,,,Others,0.75,"Rs.923.17 spent via Kotak Debit
+Card XX8962 at GITHUB, INC.
+on 20/11/2025 IST. Avl bal
+Rs.107.05 Not you?Tap https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:19:10.344260,completed,True,40,
+sent,271.62,X1583,,,,,,Others,0.65,"Sent Rs.271.62 from Kotak Bank
+AC X1583 to",2025-11-29T21:19:10.344372,completed,True,41,
+sent,86.0,X1583,,,19-11-25,568921468149,568921468149,Others,0.85,"Sent Rs.86.00 from Kotak Bank
+AC X1583 to
+blinkit.payu@hdfcbank on
+19-11-25.UPI Ref
+568921468149. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:19:18.532783,completed,True,42,
+sent,48.0,X1583,,,19-11-25,258961784253,258961784253,Others,0.85,"Sent Rs.48.00 from Kotak Bank
+AC X1583 to paytm.s1tor31@pty
+on 19-11-25.UPI Ref
+258961784253. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:19:18.532971,completed,True,43,
+sent,35.0,X1583,,,19-11-25,897537636073,897537636073,Others,0.85,"Sent Rs.35.00 from Kotak Bank
+AC X1583 to
+paytm.s144n59@pty on
+19-11-25.UPI Ref
+897537636073. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:19:18.533064,completed,True,44,
+sent,20.0,X1583,,,18-11-25,568808314423,568808314423,Others,0.85,"Sent Rs.20.00 from Kotak Bank
+AC X1583 to
+anuprathamesh252005@okhd-
+fcbank on 18-11-25.UPI Ref
+568808314423. Not you,
+https://kotak.com/KBANKT/Fraud",2025-11-29T21:19:18.533149,completed,True,45,
+sent,20.0,X1583,,,18-11-25,568829245691,568829245691,Others,0.85,"Sent Rs.20.00 from Kotak Bank
+AC X1583 to
+7776840627@ptsbi on
+18-11-25.UPI Ref
+568829245691. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:19:26.930900,completed,True,46,
+sent,2.0,X1583,,,18-11-25,371207069401,371207069401,Others,0.85,"Sent Rs.2.00 from Kotak Bank
+AC X1583 to Q859741986@ybl
+on 18-11-25.UPI Ref
+371207069401. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:19:26.931104,completed,True,47,
+sent,20.0,X1583,,,18-11-25,886244739710,886244739710,Others,0.85,"Sent Rs.20.00 from Kotak Bank
+AC X1583 to Q514328746@ybl
+on 18-11-25.UPI Ref
+886244739710. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:19:26.931193,completed,True,48,
+sent,589.0,X1583,,,17-11-25,568714120004,568714120004,Others,0.85,"Sent Rs.589.00 from Kotak Bank
+AC X1583 to
+airtel.payu@axisbank on
+17-11-25.UPI Ref
+568714120004. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:19:26.931277,completed,True,49,
+sent,29.0,X1583,,,17-11-25,,,Others,0.75,"Sent Rs.29.00 from Kotak Bank
+AC X1583 to Q376099045@ybl
+on 17-11-25.UPI Ref",2025-11-29T21:19:26.931369,completed,True,50,
+sent,1.0,X1583,,,,,,Others,0.65,Sent Rs.1.00 from Kotak Bank AC X1583 to,2025-11-29T21:19:34.918686,completed,True,55,
+sent,1.0,X1583,,,16-11-25,315237914189,315237914189,Others,0.85,"Sent Rs.1.00 from Kotak Bank AC
+X1583 to
+yespay.dftsybsp003@yesban-
+kltd on 16-11-25.UPI Ref
+315237914189. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:19:43.131467,completed,True,57,
+sent,29000.0,X1583,,,16-11-25,868488297434,868488297434,Others,0.85,"Sent Rs.29000.00 from Kotak
+Bank AC X1583 to
+9545948928@yescred on
+16-11-25.UPI Ref
+868488297434. Not you,
+https://kotak.com/KBANKT/Fraud",2025-11-29T21:19:43.131575,completed,True,58,
+received,29000.0,X1583,,,16-11-25,281282323205,281282323205,Others,0.85,"Received Rs.29000.00 in your
+Kotak Bank AC X1583 from
+poweraccess.cred@axisbank on
+16-11-25.UPI
+Ref:281282323205.",2025-11-29T21:19:43.131741,completed,True,59,
+sent,853.0,X1583,,,16-11-25,568620877849,568620877849,Others,0.85,"Sent Rs.853.00 from Kotak Bank
+AC X1583 to amznlpa-
+nuqcoricox@apl on 16-11-25.UPI
+Ref 568620877849. Not you,
+https://kotak.com/KBANKT/Fraud",2025-11-29T21:19:43.131810,completed,True,60,
+sent,29.0,X1583,,,15-11-25,129225484771,129225484771,Others,0.85,"Sent Rs.29.00 from Kotak Bank
+AC X1583 to Q376099045@ybl
+on 15-11-25.UPI Ref
+129225484771. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:19:51.647242,completed,True,61,
+sent,4000.0,X1583,,,14-11-25,568405686843,568405686843,Others,0.85,"Sent Rs.4000.00 from Kotak
+Bank AC X1583 to
+sarthaktawale28@okaxis on
+14-11-25.UPI Ref
+568405686843. Not you,
+https://kotak.com/KBANKT/Fraud",2025-11-29T21:19:51.647622,completed,True,63,
+sent,23.0,X1583,,,14-11-25,150952301552,150952301552,Others,0.85,"Sent Rs.23.00 from Kotak Bank
+AC X1583 to VIINAPPMAG@ybl
+on 14-11-25.UPI Ref
+150952301552. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:19:51.647742,completed,True,64,
+sent,2176.31,X1583,,,30-10-25,343295871990,343295871990,Others,0.85,"Sent Rs.2176.31 from Kotak Bank
+AC X1583 to BBPSBP@ybl on
+30-10-25.UPI Ref
+343295871990. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:19:59.905450,completed,True,66,
+received,1900.0,X1583,,,30-10-25,888885463455,888885463455,Others,0.85,"Received Rs.1900.00 in your
+Kotak Bank AC X1583 from
+8956910788-2@axl on
+30-10-25.UPI
+Ref:888885463455.",2025-11-29T21:19:59.905583,completed,True,67,
+sent,5.0,X1583,,,30-10-25,344376415526,344376415526,Others,0.85,"Sent Rs.5.00 from Kotak Bank
+AC X1583 to 9767979953@ybl
+on 30-10-25.UPI Ref
+344376415526. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:19:59.905683,completed,True,68,
+sent,20.0,X1583,,,30-10-25,898654078214,898654078214,Others,0.85,"Sent Rs.20.00 from Kotak Bank
+AC X1583 to 9767979953@ybl
+on 30-10-25.UPI Ref
+898654078214. Not you, https://",2025-11-29T21:19:59.905793,completed,True,69,
+received,15000.0,X1583,,,29-10-25,778610803025,778610803025,Others,0.85,"Received Rs.15000.00 in your
+Kotak Bank AC X1583 from
+poweraccess.cred@axisbank on
+29-10-25.UPI
+Ref:778610803025.",2025-11-29T21:20:16.633377,completed,True,75,
+sent,37.0,X1583,,,28-10-25,799802672887,799802672887,Others,0.85,"Sent Rs.37.00 from Kotak Bank
+AC X1583 to Q376099045@ybl
+on 28-10-25.UPI Ref
+799802672887. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:20:16.633693,completed,True,77,
+received,187.0,,,,,,,Others,0.6,Received Rs.187.00 in your Kotak,2025-11-29T21:20:16.633936,completed,True,79,
+received,187.0,X1583,,,26-10-25,566501614566,566501614566,Others,0.85,"Received Rs.187.00 in your Kotak
+Bank AC X1583 from
+kartikyag25@okaxis on
+26-10-25.UPI
+Ref:566501614566.",2025-11-29T21:20:24.585774,completed,True,80,
+sent,708.0,X1583,,,26-10-25,291869019778,291869019778,Others,0.85,"Sent Rs.708.00 from Kotak Bank
+AC X1583 to
+paytm-82222598@ptys on
+26-10-25.UPI Ref
+291869019778. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:20:24.586068,completed,True,82,
+sent,150.0,X1583,,,16-10-25,358350136927,358350136927,Others,0.85,"Sent Rs.150.00 from Kotak Bank
+AC X1583 to
+kartikyag25@okhdfcbank on
+16-10-25.UPI Ref
+358350136927. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:20:32.601023,completed,True,84,
+sent,29.0,X1583,,,16-10-25,322657055799,322657055799,Others,0.85,"Sent Rs.29.00 from Kotak Bank
+AC X1583 to Q623225458@ybl
+on 16-10-25.UPI Ref
+322657055799. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:20:32.601173,completed,True,85,
+sent,50.0,X1583,,,15-10-25,134738979282,134738979282,Others,0.85,"Sent Rs.50.00 from Kotak Bank
+AC X1583 to
+8182839875@okbizaxis on
+15-10-25.UPI Ref
+134738979282. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:20:32.601398,completed,True,87,
+sent,4000.0,X1583,,,13-10-25,528652551635,528652551635,Others,0.85,"Sent Rs.4000.00 from Kotak
+Bank AC X1583 to
+sarthaktawale28@okaxis on
+13-10-25.UPI Ref
+528652551635. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:20:40.744801,completed,True,88,
+received,800.0,X1583,"mobile
+x788. IMPS","mobile
+x788. IMPS",13-10-25,,,Bank Transfer,0.9,"Received Rs. 800.00 on
+13-10-25 in your Kotak Bank A/C
+x1583 by an A/C linked to mobile
+x788. IMPS Ref no
+528621999465.",2025-11-29T21:20:40.745173,completed,True,89,
+sent,792.0,X1583,,,13-10-25,177257241875,177257241875,Others,0.85,"Sent Rs.792.00 from Kotak Bank
+AC X1583 to
+flipkart.hypg@yespay on
+13-10-25.UPI Ref
+177257241875. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:20:40.745441,completed,True,91,
+sent,8.0,X1583,,,,,,Others,0.65,"Sent Rs.8.00 from Kotak Bank
+AC X1583 to
+BHARAT-",2025-11-29T21:20:40.745532,completed,True,92,
+sent,1807.82,X1583,,,06-10-25,950751183106,950751183106,Others,0.85,"Sent Rs.1807.82 from Kotak
+Bank AC X1583 to
+amznlpa-52sz9rn0na@yapl on
+06-10-25.UPI Ref
+950751183106. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:20:49.171621,completed,True,93,
+sent,210.0,X1583,,,06-10-25,248000306765,248000306765,Others,0.85,"Sent Rs.210.00 from Kotak Bank
+AC X1583 to
+facebookadsmanager.payu@hd-
+fcbank on 06-10-25.UPI Ref
+248000306765. Not you,
+https://kotak.com/KBANKT/Fraud",2025-11-29T21:20:49.171774,completed,True,94,
+sent,29.0,X1583,,,06-10-25,460200782622,460200782622,Others,0.85,"Sent Rs.29.00 from Kotak Bank
+AC X1583 to Q376099045@ybl
+on 06-10-25.UPI Ref
+460200782622. Not you,
+https://kotak.com/KBANKT/Fraud",2025-11-29T21:20:49.171894,completed,True,95,
+sent,32.0,X1583,,,06-10-25,677904746641,677904746641,Others,0.85,"Sent Rs.32.00 from Kotak Bank
+AC X1583 to
+BHARAT-
+PE9C0W7K2E8O675253@yes-
+bankltd on 06-10-25.UPI Ref
+677904746641. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:20:49.171979,completed,True,96,
+sent,14.0,X1583,,,,,,Others,0.65,"Sent Rs.14.00 from Kotak Bank
+AC X1583 to 0514328746@ybl",2025-11-29T21:20:49.172068,completed,True,97,
+received,1000.0,X1583,,,29-09-25,765620892725,765620892725,Others,0.85,"Received Rs.1000.00 in your
+Kotak Bank AC X1583 from
+poweraccess.cred@axisbank on
+29-09-25.UPI
+Ref:765620892725.",2025-11-29T21:20:57.253178,completed,True,98,
+sent,29.0,X1583,,,29-09-25,303244423419,303244423419,Others,0.85,"Sent Rs.29.00 from Kotak Bank
+AC X1583 to Q376099045@ybl
+on 29-09-25.UPI Ref
+303244423419. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:20:57.253320,completed,True,99,
+sent,4.0,X1583,,,29-09-25,277120359798,277120359798,Others,0.85,"Sent Rs.4.00 from Kotak Bank
+AC X1583 to Q571321384@ybl
+on 29-09-25.UPI Ref
+277120359798. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:20:57.253411,completed,True,100,
+received,1.0,X1583,,,,,,Others,0.65,"Rs. 1.00 is credited to Kotak
+Bank A/C no. XXXXXX1583 for
+reversal of UPI transaction Ref
+no 288877383989.",2025-11-29T21:20:57.253495,completed,True,101,
+sent,37.0,X1583,,,27-09-25,,,Others,0.75,"Sent Rs.37.00 from Kotak Bank
+AC X1583 to Q623225458@ybl
+on 27-09-25 LIDI Ref",2025-11-29T21:20:57.253589,completed,True,102,
+sent,1.0,X1583,,,26-09-25,288877383989,288877383989,Others,0.85,"Sent Rs.1.00 from Kotak Bank AC
+X1583 to
+yespay.cfpsprod06@yesbankltd
+on 26-09-25.UPI Ref
+288877383989. Not you,
+https://kotak.com/KBANKT/Fraud",2025-11-29T21:21:05.341570,completed,True,103,
+sent,16.0,X1583,,,26-09-25,533100170754,533100170754,Others,0.85,"Sent Rs.16.00 from Kotak Bank
+AC X1583 to Q986372180@ybl
+on 26-09-25.UPI Ref
+533100170754. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:21:05.341758,completed,True,104,
+sent,2000.0,X1583,,,26-09-25,526972786968,526972786968,Others,0.85,"Sent Rs.2000.00 from Kotak
+Bank AC X1583 to
+cca.4399081@icici on
+26-09-25.UPI Ref
+526972786968. Not you,
+https://kotak.com/KBANKT/Fraud",2025-11-29T21:21:05.341876,completed,True,105,
+received,320.0,X1583,,,25-09-25,135657343128,135657343128,Others,0.85,"Received Rs.320.00 in your
+Kotak Bank AC X1583 from
+7776840627@ybl on
+25-09-25.UPI
+Ref:135657343128.",2025-11-29T21:21:05.341987,completed,True,106,
+sent,500.0,X1583,,,23-09-25,001142788778,001142788778,Others,0.85,"Sent Rs.500.00 from Kotak Bank
+AC X1583 to
+9545948928@yescred on
+23-09-25.UPI Ref
+001142788778. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:21:13.841355,completed,True,107,
+received,700.0,X1583,,,23-09-25,771359092665,771359092665,Others,0.85,"Received Rs.700.00 in your
+Kotak Bank AC X1583 from
+poweraccess.cred@axisbank on
+23-09-25.UPI
+Ref:771359092665.",2025-11-29T21:21:13.841515,completed,True,108,
+sent,232.0,X1583,,,23-09-25,991088569644,991088569644,Others,0.85,"Sent Rs.232.00 from Kotak Bank
+AC X1583 to swiggy.stores@axb
+on 23-09-25.UPI Ref
+991088569644. Not you,
+https://kotak.com/KBANKT/Fraud",2025-11-29T21:21:13.841590,completed,True,109,
+sent,19.0,X1583,,,21-09-25,292054579259,292054579259,Others,0.85,"Sent Rs.19.00 from Kotak Bank
+AC X1583 to paybil3066@ptybl
+on 21-09-25.UPI Ref
+292054579259. Not you,
+https://kotak.com/KBANKT/Fraud",2025-11-29T21:21:22.238245,completed,True,112,
+sent,29.0,X1583,,,21-09-25,691015084213,691015084213,Others,0.85,"Sent Rs.29.00 from Kotak Bank
+AC X1583 to q623225458@ybl
+on 21-09-25.UPI Ref
+691015084213. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:21:22.238408,completed,True,113,
+sent,1733.84,X1583,,,21-09-25,433379443301,433379443301,Others,0.85,"Sent Rs.1733.84 from Kotak
+Bank AC X1583 to
+paytm-79777099@ptybl on
+21-09-25.UPI Ref
+433379443301. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:21:22.238500,completed,True,114,
+sent,866.93,X1583,,,21-09-25,642916822920,642916822920,Others,0.85,"Sent Rs.866.93 from Kotak Bank
+AC X1583 to
+paytm-79777099@ptybl on
+21-09-25.UPI Ref
+642916822920. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:21:22.238587,completed,True,115,
+sent,202.0,X1583,,,20-09-25,464742056460,464742056460,Others,0.85,"Sent Rs.202.00 from Kotak Bank
+AC X1583 to
+AIRTELPREDIRECT2@ybl on
+20-09-25.UPI Ref
+464742056460. Not you,
+https://kotak.com/KBANKT/Fraud",2025-11-29T21:21:30.509940,completed,True,116,
+received,2000.0,X1583,,,20-09-25,526325014325,526325014325,Others,0.85,"Received Rs.2000.00 in your
+Kotak Bank AC X1583 from
+rathodanjali220@oksbi on
+20-09-25.UPI
+Ref:526325014325.",2025-11-29T21:21:30.510124,completed,True,117,
+sent,37.0,X1583,,,20-09-25,532161004072,532161004072,Others,0.85,"Sent Rs.37.00 from Kotak Bank
+AC X1583 to Q623225458@ybl
+on 20-09-25.UPI Ref
+532161004072. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:21:30.510236,completed,True,118,
+received,3000.0,X1583,,,20-09-25,533977797437,533977797437,Others,0.85,"Received Rs.3000.00 in your
+Kotak Bank AC X1583 from
+gajurrathod@axl on
+20-09-25.UPI
+Ref:533977797437.",2025-11-29T21:21:30.510320,completed,True,119,
+sent,20.0,X1583,,,,,,Others,0.65,"Sent Rs.20.00 from Kotak Bank
+AC X1583 to",2025-11-29T21:21:30.510396,completed,True,120,
+received,2.0,X3146,,,25/07/25,,,Others,0.75,"Your A/C XXXXXX314617 has
+credit for 00000020425 230725
+GOOGLE of Rs 2.00 on 25/07/25.
+Avl Bal Rs 1,011.90.-SBI",2025-11-29T21:21:38.827502,completed,True,121,
+sent,2.0,X7717,,,,,,Others,0.65,"...Customer, transaction number
+519603613181 for Rs.2.00 by
+SBI Debit Card X7717 done at
+89051773 on 16Jul25 at
+08:53:01. Your updated available
+balance is Rs.1009.90...",2025-11-29T21:21:38.827672,completed,True,122,
+sent,2.0,,,,,,,Others,0.6,"796597 is OTP for online
+purchase of Rs. 2.00 at
+GOOGLEPLAY thru State Bank
+Debit Card 7717. Do not share
+this OTP with anyone. -SBI",2025-11-29T21:21:38.828012,completed,True,124,
+received,1.0,X3146,,,08/07/25,,,Others,0.75,"Your A/C XXXXX314617
+Credited INR 1.00 on 08/07/25
+-Deposit by transfer from BAJAJ
+FINANCE LTD. Avl Bal INR
+15,011.90-SBI",2025-11-29T21:21:46.969087,completed,True,126,
+sent,1770.0,X3146,,,01/07/25,,,Others,0.75,"Your AC XXXXX314617 Debited
+INR 1,770.00 on 01/07/25 -CMP
+CHARGE DR. Avl Bal INR
+1,217.90.-SBI",2025-11-29T21:21:46.969394,completed,True,128,
+sent,2.0,,,,,,,Others,0.6,"662911 is OTP for online
+purchase of Rs. 2.00 at
+YOUTUBE thru State Bank Debit
+Card 7717. Do not share this OTP
+with anyone. -SBI",2025-11-29T21:21:54.800641,completed,True,130,
+sent,80.0,X3146,,,25/06/25,,,Others,0.75,"Your AC XXXXX314617 Debited
+INR 80.00 on 25/06/25 -ECS/
+ACH RET CH. Avl Bal INR 0.00.-
+SBI",2025-11-29T21:21:54.800749,completed,True,131,
+sent,80.0,X3146,,,25/06/25,,,Others,0.75,"Your AC XXXXX314617 Debited
+INR 80.00 on 25/06/25 -ECS/
+ACH RET CH. Avl Bal INR 0.00.-
+SBI",2025-11-29T21:22:02.378169,completed,True,134,
+sent,989.81,X3146,,,01/07/25,,,Others,0.75,"Your AC XXXXX314617 Debited
+INR 989.81 on 01/07/25 -ECS/
+ACH RET CH. Avl Bal INR
+2,987.90.-SBI",2025-11-29T21:22:02.378330,completed,True,135,
+sent,1770.0,X3146,,,01/07/25,,,Others,0.75,"Your AC XXXXX314617 Debited
+INR 1,770.00 on 01/07/25 -CMP
+CHARGE DR. Avl Bal INR
+1,217.90.-SBI",2025-11-29T21:22:02.378431,completed,True,136,
+received,1.0,X3146,,,08/07/25,,,Others,0.75,"Your A/C XXXXX314617
+Credited INR 1.00 on 08/07/25
+-Deposit by transfer from
+BAJAJ FINANCE LTD. Avl Bal
+INR 15,011.90-SBI",2025-11-29T21:22:02.378522,completed,True,137,
+sent,542.86,X1583,,,20-11-25,102014413800,102014413800,Others,0.85,"Sent Rs.542.86 from Kotak Bank
+AC X1583 to
+mpokket.payu@hdfcbank on
+20-11-25.UPI Ref
+102014413800. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:22:17.673875,completed,True,143,
+sent,86.0,X1583,,,19-11-25,568921468149,568921468149,Others,0.85,"Sent Rs.86.00 from Kotak Bank
+AC X1583 to
+blinkit.payu@hdfcbank on
+19-11-25.UPI Ref
+568921468149. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:22:17.673998,completed,True,144,
+sent,286.0,X1583,,,11-11-25,568114197220,568114197220,Others,0.85,"Sent Rs.286.00 from Kotak Bank
+AC X1583 to
+blinkit.rzp@hdfcbank on
+11-11-25.UPI Ref 568114197220.
+Not you, https://kotak.com/
+KBANKT/Fraud",2025-11-29T21:22:25.804312,completed,True,146,
+sent,20.0,X1100,,,,,,Others,0.65,"Sent Rs.20.00
+From HDFC Bank A/C *1100
+Το MUKUND TUKARAM
+CHAVAN",2025-11-29T21:22:25.804867,completed,True,149,
+received,20.0,X1100,lajurkarvaishnav,lajurkarvaishnav,09-11-25,531308076340,531308076340,P2P,1.0,"Credit Alert!
+Rs.20.00 credited to HDFC Bank
+A/c XX1100 on 09-11-25 from
+VPA lajurkarvaishnav@oksbi (UPI
+531308076340)",2025-11-29T21:22:34.123227,completed,True,150,lajurkarvaishnav@oksbi
+sent,142.0,X1583,,,08-11-25,292099607834,292099607834,Others,0.85,"Sent Rs.142.00 from Kotak Bank
+AC X1583 to
+blinkit.payu@hdfcbank on
+08-11-25.UPI Ref
+292099607834. Not you,
+https://kotak.com/KBANKT/Fraud",2025-11-29T21:22:34.123370,completed,True,151,
+sent,2900.0,X1100,"MUKUND TUKARAM
+CHAVAN","MUKUND TUKARAM
+CHAVAN",04/11/25,843509663452,843509663452,Others,1.0,"Sent Rs.2900.00
+From HDFC Bank A/C *1100
+To MUKUND TUKARAM
+CHAVAN
+On 04/11/25
+Ref 843509663452
+Not You?
+Call 18002586161/SMS BLOCK
+UPI to 7308080808",2025-11-29T21:22:34.123445,completed,True,152,
+received,2900.0,X1100,9529704806,9529704806,04-11-25,944146915807,944146915807,P2P,1.0,"Credit Alert!
+Rs.2900.00 credited to HDFC
+Bank A/c XX1100 on 04-11-25
+from VPA 9529704806@axl (UPI
+944146915807)",2025-11-29T21:22:34.123491,completed,True,153,9529704806@axl
+sent,5530.0,X1100,,,03/11/25,393766506697,393766506697,Others,0.85,"Sent Rs.5530.00
+From HDFC Bank A/C *1100
+Το MUKUND TUKARAM
+CHAVAN
+On 03/11/25
+Ref 393766506697
+Not You?
+Call 18002586161/SMS BLOCK
+UPI to 7308080808",2025-11-29T21:22:41.905849,completed,True,154,
+received,5530.0,X1100,9529704806,9529704806,03-11-25,145560211627,145560211627,P2P,1.0,"Credit Alert!
+Rs.5530.00 credited to HDFC
+Bank A/c XX1100 on 03-11-25
+from VPA 9529704806@ybl
+(UPI 145560211627)",2025-11-29T21:22:41.906090,completed,True,155,9529704806@ybl
+sent,219.0,X1583,,,31-10-25,101833924858,101833924858,Others,0.85,"Sent Rs.219.00 from Kotak Bank
+AC X1583 to
+appleservices.bdsi@hdfcbank
+on 31-10-25.UPI Ref
+101833924858. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:22:41.906190,completed,True,156,
+sent,1900.0,X1100,,,30/10/25,888885463455,888885463455,Others,0.85,"Sent Rs.1900.00
+From HDFC Bank A/C *1100
+Το MUKUND TUKARAM
+CHAVAN
+On 30/10/25
+Ref 888885463455
+Not You?
+Call 18002586161/SMS BLOCK
+UPI to 7308080808",2025-11-29T21:22:49.996447,completed,True,160,
+received,1900.0,X1100,9529704806,9529704806,30-10-25,027313291324,027313291324,P2P,1.0,"Credit Alert!
+Rs.1900.00 credited to HDFC
+Bank A/c XX1100 on 30-10-25
+from VPA 9529704806@axl (UPI
+027313291324)",2025-11-29T21:22:49.996617,completed,True,161,9529704806@axl
+sent,352.99,X5911,,,20-OCT-25,,,Others,0.75,"UPDATE: INR 352.99 debited
+from HDFC Bank A/c XX591100
+on 20-OCT-25. For: DEBIT CARD
+ANNUAL FEE-Sep-2025
+250925-MIR2629179253421",2025-11-29T21:22:59.211786,completed,True,162,
+sent,14.0,X1100,,,27/10/25,830564372523,830564372523,Others,0.85,"Sent Rs.14.00
+From HDFC Bank A/C *1100
+Το VIKRANSINH MOHANJI
+VAGHELA
+On 27/10/25
+Ref 830564372523
+Not You?
+Call 18002586161/SMS BLOCK
+UPI to 7308080808",2025-11-29T21:22:59.212108,completed,True,163,
+received,26.0,X1100,amrutkatkar11-1,amrutkatkar11-1,27-10-25,530011943426,530011943426,P2P,1.0,"Credit Alert!
+Rs.26.00 credited to HDFC Bank
+A/c XX1100 on 27-10-25 from
+VPA amrutkatkar11-1@oksbi (UPI
+530011943426)",2025-11-29T21:22:59.212241,completed,True,164,amrutkatkar11-1@oksbi
+sent,100.0,X1100,Sameer Santosh Kadam,Sameer Santosh Kadam,26/10/25,113211235178,113211235178,Others,1.0,"Sent Rs.100.00
+From HDFC Bank A/C *1100
+To Sameer Santosh Kadam
+On 26/10/25
+Ref 113211235178",2025-11-29T21:22:59.212365,completed,True,165,
+sent,100.0,X1100,Sameer Santosh Kadam,Sameer Santosh Kadam,26/10/25,113211235178,113211235178,Others,1.0,"Sent Rs.100.00
+From HDFC Bank A/C *1100
+To Sameer Santosh Kadam
+On 26/10/25
+Ref 113211235178
+Not You?
+Call 18002586161/SMS BLOCK
+UPI to 7308080808",2025-11-29T21:23:07.506013,completed,True,166,
+received,187.0,X1100,amrutkatkar11-1,amrutkatkar11-1,26-10-25,529972666717,529972666717,P2P,1.0,"Credit Alert!
+Rs.187.00 credited to HDFC
+Bank A/c XX1100 on 26-10-25
+from VPA
+amrutkatkar11-1@oksbi (UPI
+529972666717)",2025-11-29T21:23:07.506277,completed,True,167,amrutkatkar11-1@oksbi
+received,100.0,X1100,sskadam6305-1,sskadam6305-1,26-10-25,529971356699,529971356699,P2P,1.0,"Credit Alert!
+Rs.100.00 credited to HDFC
+Bank A/c XX1100 on 26-10-25
+from VPA
+sskadam6305-1@oksbi (UPI
+529971356699)",2025-11-29T21:23:07.506373,completed,True,168,sskadam6305-1@oksbi
+received,26.0,X1100,sskadam6305-1,sskadam6305-1,26-10-25,529971251437,529971251437,P2P,1.0,"Credit Alert!
+Rs.26.00 credited to HDFC Bank
+A/c XX1100 on 26-10-25 from
+VPA sskadam6305-1@oksbi
+(UPI 529971251437)",2025-11-29T21:23:07.506485,completed,True,169,sskadam6305-1@oksbi
+sent,40.0,X1100,DS UPHARGRAH,DS UPHARGRAH,18/10/25,534415024708,534415024708,Others,1.0,"Sent Rs.40.00
+From HDFC Bank A/C *1100
+To DS UPHARGRAH
+On 18/10/25
+Ref 534415024708
+Not You?
+Call 18002586161/SMS BLOCK
+UPI to 7308080808",2025-11-29T21:23:15.774057,completed,True,170,
+sent,589.0,X1100,airtel,airtel,18/10/25,112843244663,112843244663,Recharge/Bills,1.0,"Sent Rs.589.00
+From HDFC Bank A/C *1100
+To airtel
+On 18/10/25
+Ref 112843244663
+Not You?
+Call 18002586161/SMS BLOCK
+UPI to 7308080808",2025-11-29T21:23:15.774196,completed,True,171,
+sent,30.0,X1100,Shubham,Shubham,18/10/25,637002539574,637002539574,Others,1.0,"Sent Rs.30.00
+From HDFC Bank A/C *1100
+To Shubham
+On 18/10/25
+Ref 637002539574
+Not You?
+Call 18002586161/SMS BLOCK
+UPI to 7308080808",2025-11-29T21:23:15.774253,completed,True,172,
+sent,837.0,X1100,,,,,,Others,0.65,"Sent Rs.837.00
+From HDFC Bank A/C *1100
+To MLIST IND TUKARAM",2025-11-29T21:23:15.774308,completed,True,173,
+sent,30.0,X1100,Shubham,Shubham,18/10/25,637002539574,637002539574,Others,1.0,"Sent Rs.30.00
+From HDFC Bank A/C *1100
+To Shubham
+On 18/10/25
+Ref 637002539574
+Not You?
+Call 18002586161/SMS BLOCK
+UPI to 7308080808",2025-11-29T21:23:23.722210,completed,True,174,
+sent,837.0,X1100,,,18/10/25,315968441529,315968441529,Others,0.85,"Sent Rs.837.00
+From HDFC Bank A/C *1100
+Το MUKUND TUKARAM
+CHAVAN
+On 18/10/25
+Ref 315968441529
+Not You?
+Call 18002586161/SMS BLOCK
+UPI to 7308080808",2025-11-29T21:23:23.722395,completed,True,175,
+sent,400.0,X1100,,,17/10/25,558594226606,558594226606,Others,0.85,"Sent Rs.400.00
+From HDFC Bank A/C *1100
+Το NAGNATH RAJARAM AINULE
+On 17/10/25
+Ref 558594226606
+Not You?
+Call 18002586161/SMS BLOCK
+UPI to 7308080808",2025-11-29T21:23:23.722436,completed,True,176,
+sent,667.0,X1100,,,,,,Others,0.65,"Sent Rs.667.00
+From HDFC Bank A/C *1100
+To Blinkit",2025-11-29T21:23:23.722469,completed,True,177,
+sent,837.0,X1100,,,18/10/25,315968441529,315968441529,Others,0.85,"Sent Rs.837.00
+From HDFC Bank A/C *1100
+Το MUKUND TUKARAM
+CHAVAN
+On 18/10/25
+Ref 315968441529
+Not You?
+Call 18002586161/SMS BLOCK
+UPI to 7308080808",2025-11-29T21:23:31.570193,completed,True,178,
+sent,400.0,X1100,,,17/10/25,558594226606,558594226606,Others,0.85,"Sent Rs.400.00
+From HDFC Bank A/C *1100
+Το NAGNATH RAJARAM AINULE
+On 17/10/25
+Ref 558594226606
+Not You?
+Call 18002586161/SMS BLOCK
+UPI to 7308080808",2025-11-29T21:23:31.570538,completed,True,179,
+sent,667.0,X1100,Blinkit,Blinkit,17/10/25,739072052302,739072052302,Groceries,1.0,"Sent Rs.667.00
+From HDFC Bank A/C *1100
+To Blinkit
+On 17/10/25
+Ref 739072052302
+Not You?
+Call 18002586161/SMS BLOCK
+UPI to 7308080808",2025-11-29T21:23:31.570631,completed,True,180,
+received,1.0,X1100,,,07-08-25,,,Others,0.75,"Received!
+INR 1.00 in HDFC Bank A/c
+xx1100
+On 07-08-25
+For IMPS -BILLIONBRAINS
+GARAGE VENTURES-
+521977549483
+Avl bal INR 1.00",2025-11-29T21:23:39.352013,completed,True,182,
+received,15.0,,,,,,,Others,0.6,"Credit Card without income
+proof? YES! Book a Rs.15K FD &
+apply for a HDFC Bank Credit
+Card + get a Rs.1500 Voucher:
+https://hdfcbk.io/HDFCBN/
+DES9Z7ZOHDxr T&C",2025-11-29T21:23:39.352201,completed,True,183,
+sent,219.0,X1583,,,31-07-25,101087737588,101087737588,Others,0.85,"Sent Rs.219.00 from Kotak Bank
+AC X1583 to
+appleservices.bdsi@hdfcbank
+on 31-07-25.UPI Ref
+101087737588. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:23:39.352339,completed,True,184,
+sent,217.0,X1583,,,,,,Others,0.65,"Sent Rs.217.00 from Kotak Bank
+AC X1583 to",2025-11-29T21:23:39.352436,completed,True,185,
+sent,217.0,X1583,,,28-07-25,985892398948,985892398948,Others,0.85,"Sent Rs.217.00 from Kotak Bank
+AC X1583 to
+blinkit.payu@hdfcbank on
+28-07-25.UPI Ref
+985892398948. Not you,
+https://kotak.com/KBANKT/Fraud",2025-11-29T21:23:47.602056,completed,True,186,
+sent,427.0,X1583,,,27-07-25,387140367627,387140367627,Others,0.85,"Sent Rs.427.00 from Kotak Bank
+AC X1583 to
+flipkart.payu@hdfcbank on
+27-07-25.UPI Ref
+387140367627. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:23:47.602486,completed,True,188,
+received,15.0,,,,,,,Others,0.6,"Credit Card without income
+proof? YES! Book a Rs.15K FD &
+apply for a HDFC Bank Credit
+Card + get a Rs.1500 Voucher:",2025-11-29T21:23:47.602542,completed,True,189,
+received,80.0,X0519,CREDIT,CREDIT,17/06/2025,,,Others,0.9,"You have received a payment of
+Rs. 80.00 in a/c X0519 on
+17/06/2025 15:06 from sameer
+santosh kadam thru IPPB. Info:
+UPI/CREDIT/516879066646.-
+IPPB",2025-11-29T21:23:55.941971,completed,True,190,
+received,374.0,X0519,CREDIT,CREDIT,03/07/2025,,,Others,0.9,"You have received a payment of
+Rs. 374.00 in a/c X0519 on
+03/07/2025 21:07 from mukund
+tukaram chava thru IPPB. Info:
+UPI/CREDIT/287595031276.-
+IPPB",2025-11-29T21:23:55.942304,completed,True,191,
+sent,500.0,X0519,mukund tukaram,mukund tukaram,30-07-25,009110667313,009110667313,Others,1.0,"A/C X0519 Debit Rs.500.00 for
+UPI to mukund tukaram on
+30-07-25 Ref 009110667313.
+Avl Bal Rs.70.46. If not you?
+SMS FREEZE ""full a/c"" to
+7738062873-IPPB",2025-11-29T21:23:55.942372,completed,True,192,
+received,80.0,X0519,CREDIT,CREDIT,17/06/2025,,,Others,0.9,"You have received a payment of
+Rs. 80.00 in a/c X0519 on
+17/06/2025 15:06 from sameer
+santosh kadam thru IPPB. Info:
+UPI/CREDIT/516879066646.-
+IPPB",2025-11-29T21:24:05.055183,completed,True,194,
+received,374.0,X0519,CREDIT,CREDIT,03/07/2025,,,Others,0.9,"You have received a payment of
+Rs. 374.00 in a/c X0519 on
+03/07/2025 21:07 from mukund
+tukaram chava thru IPPB. Info:
+UPI/CREDIT/287595031276.-
+IPPB",2025-11-29T21:24:05.055575,completed,True,195,
+sent,500.0,X0519,mukund tukaram,mukund tukaram,30-07-25,009110667313,009110667313,Others,1.0,"A/C X0519 Debit Rs.500.00 for
+UPI to mukund tukaram on
+30-07-25 Ref 009110667313.
+Avl Bal Rs.70.46. If not you?
+SMS FREEZE ""full a/c"" to
+7738062873-IPPB",2025-11-29T21:24:05.055689,completed,True,196,
+sent,271.62,X1583,,,20-11-25,295366133844,295366133844,Others,0.85,"Sent Rs.271.62 from Kotak Bank
+AC X1583 to
+paytm-79777099@ptybl on
+20-11-25.UPI Ref
+295366133844. Not you,
+https://kotak.com/KBANKT/Fraud",2025-11-29T21:24:13.231148,completed,True,198,
+sent,48.0,X1583,,,19-11-25,258961784253,258961784253,Others,0.85,"Sent Rs.48.00 from Kotak Bank
+AC X1583 to paytm.s1tor31@pty
+on 19-11-25.UPI Ref
+258961784253. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:24:13.231349,completed,True,199,
+sent,35.0,X1583,,,19-11-25,897537636073,897537636073,Others,0.85,"Sent Rs.35.00 from Kotak Bank
+AC X1583 to
+paytm.s144n59@pty on
+19-11-25.UPI Ref
+897537636073. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:24:13.231467,completed,True,200,
+sent,434.01,X1583,,,08-11-25,294641691712,294641691712,Others,0.85,"Sent Rs.434.01 from Kotak Bank
+AC X1583 to
+paytm-79777099@ptybl on
+08-11-25.UPI Ref
+294641691712. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:24:13.231574,completed,True,201,
+sent,29.0,X1583,,,14-08-25,938779758669,938779758669,Others,0.85,"Sent Rs.29.00 from Kotak Bank
+AC X1583 to
+paytm.s1ac19p@pty on
+14-08-25.UPI Ref
+938779758669. Not you,
+https://kotak.com/KBANKT/Fraud",2025-11-29T21:24:21.290497,completed,True,202,
+sent,51.0,X1583,,,05-08-25,105912944974,105912944974,Others,0.85,"Sent Rs.51.00 from Kotak Bank
+AC X1583 to
+paytm.s1ac19p@pty on
+05-08-25.UPI Ref
+105912944974. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:24:21.291073,completed,True,203,
+sent,35.0,X1583,,,02-08-25,660515755459,660515755459,Others,0.85,"Sent Rs.35.00 from Kotak Bank
+AC X1583 to
+paytm.s1ac19p@pty on
+02-08-25.UPI Ref
+660515755459. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:24:21.291176,completed,True,204,
+sent,155.0,X1583,,,,,,Others,0.65,"Sent Rs.155.00 from Kotak Bank
+AC X1583 to
+paytm.s1ac19p@pty on
+21 07 25 LUDI Dof",2025-11-29T21:24:21.291304,completed,True,205,
+sent,29.0,X1583,,,30-06-25,588452716117,588452716117,Others,0.85,"Sent Rs.29.00 from Kotak Bank
+AC X1583 to
+paytm.s1ac19p@pty on
+30-06-25.UPI Ref
+588452716117. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:24:29.634588,completed,True,206,
+sent,20.0,X1583,,,28-06-25,962836895509,962836895509,Others,0.85,"Sent Rs.20.00 from Kotak Bank
+AC X1583 to
+paytm.s1ac19p@pty on
+28-06-25.UPI Ref
+962836895509. Not you,
+https://kotak.com/KBANKT/Fraud",2025-11-29T21:24:29.635003,completed,True,207,
+sent,107.0,X1583,,,28-06-25,960621064266,960621064266,Others,0.85,"Sent Rs.107.00 from Kotak Bank
+AC X1583 to
+paytm.s1ac19p@pty on
+28-06-25.UPI Ref
+960621064266. Not you,
+https://kotak.com/KBANKT/Fraud",2025-11-29T21:24:29.635122,completed,True,208,
+sent,29.0,X1583,,,27-06-25,183035507272,183035507272,Others,0.85,"Sent Rs.29.00 from Kotak Bank
+AC X1583 to
+paytm.s1ac19p@pty on
+27-06-25.UPI Ref
+183035507272. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:24:29.635360,completed,True,209,
+sent,86.0,X1583,,,19-11-25,568921468149,568921468149,Others,0.85,"Sent Rs.86.00 from Kotak Bank
+AC X1583 to
+blinkit.payu@hdfcbank on
+19-11-25.UPI Ref
+568921468149. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:24:37.515518,completed,True,211,
+sent,286.0,X1583,,,11-11-25,568114197220,568114197220,Others,0.85,"Sent Rs.286.00 from Kotak Bank
+AC X1583 to
+blinkit.rzp@hdfcbank on
+11-11-25.UPI Ref 568114197220.
+Not you, https://kotak.com/
+KBANKT/Fraud",2025-11-29T21:24:45.385891,completed,True,214,
+sent,142.0,X1583,,,08-11-25,292099607834,292099607834,Others,0.85,"Sent Rs.142.00 from Kotak Bank
+AC X1583 to
+blinkit.payu@hdfcbank on
+08-11-25.UPI Ref
+292099607834. Not you,
+https://kotak.com/KBANKT/Fraud",2025-11-29T21:24:45.386139,completed,True,216,
+sent,186.0,X1583,,,12-10-25,065443737767,065443737767,Others,0.85,"Sent Rs.186.00 from Kotak Bank
+AC X1583 to
+blinkit.payu@hdfcbank on
+12-10-25.UPI Ref
+065443737767. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:24:53.220148,completed,True,218,
+sent,206.0,X1583,,,11-10-25,865893364753,865893364753,Others,0.85,"Sent Rs.206.00 from Kotak Bank
+AC X1583 to
+blinkitjkb.rzp@mairtel on
+11-10-25.UPI Ref
+865893364753. Not you,
+https://kotak.com/KBANKT/Fraud",2025-11-29T21:24:53.220558,completed,True,219,
+sent,278.0,X1583,,,05-09-25,518289423818,518289423818,Others,0.85,"Sent Rs.278.00 from Kotak Bank
+AC X1583 to
+blinkit.rzp@hdfcbank on
+05-09-25.UPI Ref
+518289423818. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:25:01.097198,completed,True,222,
+sent,213.0,X1583,,,01-09-25,365700627097,365700627097,Others,0.85,"Sent Rs.213.00 from Kotak Bank
+AC X1583 to paytm-
+blinkit@ptybl on 01-09-25.UPI
+Ref 365700627097. Not you,
+https://kotak.com/KBANKT/Fraud",2025-11-29T21:25:01.097416,completed,True,223,
+sent,239.0,X1583,,,30-08-25,997654977364,997654977364,Others,0.85,"Sent Rs.239.00 from Kotak Bank
+AC X1583 to
+blinkit.payu@hdfcbank on
+30-08-25.UPI Ref
+997654977364. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:25:01.097462,completed,True,224,
+sent,212.0,X1583,,,12-07-25,565310863548,565310863548,Others,0.85,"Sent Rs.212.00 from Kotak Bank
+AC X1583 to
+blinkit.payu@hdfcbank on
+12-07-25.UPI Ref
+565310863548. Not you,
+https://kotak.com/KBANKT/Fraud",2025-11-29T21:25:08.831250,completed,True,227,
+sent,382.0,X1583,,,29-06-25,779187581394,779187581394,Others,0.85,"Sent Rs.382.00 from Kotak Bank
+AC X1583 to
+blinkit.payu@hdfcbank on
+29-06-25.UPI Ref
+779187581394. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:25:08.831367,completed,True,228,
+sent,218.0,X1583,,,22-06-25,,,Others,0.75,"Sent Rs.218.00 from Kotak Bank
+AC X1583 to
+blinkitjkb.rzp@mairtel on
+22-06-25 LUPLRef",2025-11-29T21:25:08.831458,completed,True,229,
+sent,168.0,X1583,,,26-11-25,569609454918,569609454918,Others,0.85,"Sent Rs.168.00 from Kotak Bank
+AC X1583 to swiggy@yespay on
+26-11-25.UPI Ref
+569609454918. Not you,
+https://kotak.com/KBANKT/Fraud",2025-11-29T21:25:16.814565,completed,True,230,
+sent,251.0,X1583,,,24-11-25,569408227517,569408227517,Others,0.85,"Sent Rs.251.00 from Kotak Bank
+AC X1583 to swiggystores@icici
+on 24-11-25.UPI Ref
+569408227517. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:25:16.814937,completed,True,233,
+sent,417.0,X1583,,,03-11-25,484850959016,484850959016,Others,0.85,"Sent Rs.417.00 from Kotak Bank
+AC X1583 to swiggy.stores@axb
+on 03-11-25.UPI Ref
+484850959016. Not you,
+https://kotak.com/KBANKT/Fraud",2025-11-29T21:25:24.719747,completed,True,234,
+sent,232.0,X1583,,,23-09-25,991088569644,991088569644,Others,0.85,"Sent Rs.232.00 from Kotak Bank
+AC X1583 to swiggy.stores@axb
+on 23-09-25.UPI Ref
+991088569644. Not you,
+https://kotak.com/KBANKT/Fraud",2025-11-29T21:25:24.720115,completed,True,235,
+sent,279.0,X1583,,,18-09-25,855213575788,855213575788,Others,0.85,"Sent Rs.279.00 from Kotak Bank
+AC X1583 to swiggy.stores@axb
+on 18-09-25.UPI Ref
+855213575788. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:25:24.720208,completed,True,236,
+sent,194.0,X1583,,,16-09-25,391538476034,391538476034,Others,0.85,"Sent Rs.194.00 from Kotak Bank
+AC X1583 to swiggy.stores@axb
+on 16-09-25.UPI Ref
+391538476034. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:25:24.720290,completed,True,237,
+sent,236.0,X1583,,,17-08-25,618979877238,618979877238,Others,0.85,"Sent Rs.236.00 from Kotak Bank
+AC X1583 to swiggy.stores@axb
+on 17-08-25.UPI Ref
+618979877238. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:25:32.297335,completed,True,238,
+sent,139.0,X1583,,,26-07-25,849010746952,849010746952,Others,0.85,"Sent Rs.139.00 from Kotak Bank
+AC X1583 to
+swiggy319952.rzp@rxairtel on
+26-07-25.UPI Ref
+849010746952. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:25:40.594892,completed,True,242,
+sent,171.0,X1583,,,19-07-25,398057730322,398057730322,Others,0.85,"Sent Rs.171.00 from Kotak Bank
+AC X1583 to swiggystores@icici
+on 19-07-25.UPI Ref
+398057730322. Not you,
+https://kotak.com/KBANKT/Fraud",2025-11-29T21:25:40.595321,completed,True,243,
+sent,139.0,X1583,,,02-07-25,131955450444,131955450444,Others,0.85,"Sent Rs.139.00 from Kotak Bank
+AC X1583 to swiggy.stores@axb
+on 02-07-25.UPI Ref
+131955450444. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:25:40.595461,completed,True,244,
+sent,244.0,X1583,,,23-06-25,831157048169,831157048169,Others,0.85,"Sent Rs.244.00 from Kotak Bank
+AC X1583 to
+swiggy319952.rzp@rxairtel on
+23-06-25.UPI Ref
+831157048169. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:25:40.595778,completed,True,245,
+sent,382.0,X1583,,,17-06-25,214058059282,214058059282,Others,0.85,"Sent Rs.382.00 from Kotak Bank
+AC X1583 to swiggystores@icici
+on 17-06-25.UPI Ref
+214058059282. Not you, https://
+kotak.com/KBANKT/Fraud",2025-11-29T21:25:48.683184,completed,True,247,
+sent,382.0,X1583,,,17-06-25,003656949497,003656949497,Others,0.85,"Sent Rs.382.00 from Kotak Bank
+AC X1583 to swiggy.stores@axb
+on 17-06-25.UPI Ref
+003656949497. Not you,
+https://kotak.com/KBANKT/Fraud",2025-11-29T21:25:48.683756,completed,True,250,
