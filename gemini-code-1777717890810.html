@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Finmate | One AI to manage your money and decisions</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: { sans: ['Inter', 'sans-serif'], },
+                    colors: { finmate: { teal: '#0B6E6F', dark: '#0f172a', light: '#f8fafc' } },
+                    animation: { 'fade-in-up': 'fadeInUp 0.8s ease-out forwards', },
+                    keyframes: {
+                        fadeInUp: {
+                            '0%': { opacity: '0', transform: 'translateY(20px)' },
+                            '100%': { opacity: '1', transform: 'translateY(0)' },
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        body { font-family: 'Inter', sans-serif; }
+        .glass-card { background: rgba(255, 255, 255, 0.8); backdrop-filter: blur(12px); border-bottom: 1px solid rgba(0,0,0,0.05); }
+        .reveal { opacity: 0; transform: translateY(30px); transition: all 0.8s ease-out; }
+        .reveal.active { opacity: 1; transform: translateY(0); }
+        .faq-answer { max-height: 0; overflow: hidden; transition: max-height 0.3s ease-out; }
+    </style>
+</head>
+<body class="bg-white text-slate-900 antialiased selection:bg-finmate-teal selection:text-white">
+
+    <nav class="fixed w-full z-50 glass-card transition-all duration-300">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between items-center h-20">
+                <div class="flex-shrink-0 flex items-center gap-2 cursor-pointer">
+                    <div class="w-8 h-8 bg-finmate-teal rounded-lg flex items-center justify-center">
+                        <svg class="w-5 h-5 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path></svg>
+                    </div>
+                    <span class="font-bold text-xl tracking-tight">Finmate</span>
+                </div>
+                <div class="hidden md:flex space-x-8 items-center">
+                    <a href="#features" class="text-sm font-medium text-slate-600 hover:text-finmate-teal transition">Features</a>
+                    <a href="#how-it-works" class="text-sm font-medium text-slate-600 hover:text-finmate-teal transition">How it Works</a>
+                    <a href="#pricing" class="text-sm font-medium text-slate-600 hover:text-finmate-teal transition">Pricing</a>
+                    <a href="#faq" class="text-sm font-medium text-slate-600 hover:text-finmate-teal transition">FAQ</a>
+                    <a href="#cta" class="bg-slate-900 hover:bg-finmate-teal text-white px-5 py-2.5 rounded-full text-sm font-medium transition-all shadow-sm">Get Early Access</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <section class="relative pt-32 pb-16 lg:pt-48 lg:pb-24 overflow-hidden">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative text-center">
+            <div class="animate-fade-in-up">
+                <span class="inline-block py-1 px-3 rounded-full bg-slate-100 text-finmate-teal text-sm font-semibold mb-6 border border-slate-200">
+                    🚀 Now accepting early beta users
+                </span>
+                <h1 class="text-5xl md:text-7xl font-bold tracking-tight text-slate-900 mb-8 leading-tight">
+                    One AI to manage your <br class="hidden md:block" /> <span class="text-transparent bg-clip-text bg-gradient-to-r from-finmate-teal to-slate-900">money and decisions.</span>
+                </h1>
+                <p class="mt-4 max-w-2xl text-lg md:text-xl text-slate-600 mx-auto mb-10 leading-relaxed">
+                    Finmate tracks expenses, analyzes behavior, and gives real-time, personalized financial insights. Stop switching between apps and let one intelligent system do the work.
+                </p>
+                <div class="flex flex-col sm:flex-row justify-center gap-4">
+                    <a href="#cta" class="bg-slate-900 hover:bg-finmate-teal text-white px-8 py-4 rounded-full text-base font-semibold transition-all shadow-lg hover:shadow-xl hover:-translate-y-0.5 flex items-center justify-center gap-2">
+                        Get Early Access
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="py-10 border-y border-slate-100 bg-white">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center reveal">
+            <p class="text-sm font-semibold text-slate-400 tracking-widest uppercase mb-6">Works seamlessly with your existing accounts</p>
+            <div class="flex flex-wrap justify-center gap-8 md:gap-16 opacity-60 grayscale hover:grayscale-0 transition-all duration-500">
+                <span class="text-xl font-bold text-slate-700">HDFC Bank</span>
+                <span class="text-xl font-bold text-slate-700">SBI</span>
+                <span class="text-xl font-bold text-slate-700">Kotak</span>
+                <span class="text-xl font-bold text-slate-700">IPPB</span>
+                <span class="text-xl font-bold text-slate-700">UPI</span>
+            </div>
+        </div>
+    </section>
+
+    <section class="py-24 bg-slate-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="grid md:grid-cols-2 gap-16 items-center">
+                <div class="reveal">
+                    <h2 class="text-sm font-bold text-finmate-teal tracking-widest uppercase mb-3">The Problem</h2>
+                    <h3 class="text-3xl font-bold text-slate-900 mb-6">Fragmented tools waste your time.</h3>
+                    <p class="text-slate-600 text-lg leading-relaxed mb-6">
+                        Every day, people waste hours switching between budgeting apps, bank statements, and spreadsheets just to figure out where their money is going. Financial visibility is broken.
+                    </p>
+                </div>
+                <div class="bg-white p-10 rounded-3xl shadow-sm border border-slate-100 reveal">
+                    <h2 class="text-sm font-bold text-finmate-teal tracking-widest uppercase mb-3">The Solution</h2>
+                    <h3 class="text-2xl font-bold text-slate-900 mb-4">Everything unified by AI.</h3>
+                    <p class="text-slate-600 mb-6">
+                        Finmate seamlessly reads your transaction data (like UPI SMS), auto-categorizes it using on-device ML, and provides actionable insights instantly. One interface, zero manual entry.
+                    </p>
+                    <ul class="space-y-3">
+                        <li class="flex items-center text-slate-700 font-medium"><svg class="w-5 h-5 text-green-500 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg> Unified Dashboard</li>
+                        <li class="flex items-center text-slate-700 font-medium"><svg class="w-5 h-5 text-green-500 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg> Zero manual logging</li>
+                        <li class="flex items-center text-slate-700 font-medium"><svg class="w-5 h-5 text-green-500 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg> Proactive decision support</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="features" class="py-24 bg-white">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center max-w-3xl mx-auto mb-16 reveal">
+                <h2 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">Intelligence built into every feature</h2>
+                <p class="text-lg text-slate-600">Designed to reduce decision time and give you absolute clarity over your finances.</p>
+            </div>
+            
+            <div class="grid md:grid-cols-3 gap-8">
+                <div class="p-8 rounded-3xl bg-slate-50 border border-slate-100 hover:shadow-md transition-shadow reveal">
+                    <div class="w-12 h-12 bg-white rounded-xl shadow-sm flex items-center justify-center mb-6 text-finmate-teal">
+                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path></svg>
+                    </div>
+                    <h3 class="text-xl font-bold text-slate-900 mb-3">AI-Powered Insights</h3>
+                    <p class="text-slate-600 leading-relaxed">Advanced algorithms analyze your spending patterns to provide tailored recommendations before you make poor financial choices.</p>
+                </div>
+                <div class="p-8 rounded-3xl bg-slate-50 border border-slate-100 hover:shadow-md transition-shadow reveal">
+                    <div class="w-12 h-12 bg-white rounded-xl shadow-sm flex items-center justify-center mb-6 text-finmate-teal">
+                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 7h6m0 10v-3m-3 3h.01M9 17h.01M9 14h.01M12 14h.01M15 11h.01M12 11h.01M9 11h.01M7 21h10a2 2 0 002-2V5a2 2 0 00-2-2H7a2 2 0 00-2 2v14a2 2 0 002 2z"></path></svg>
+                    </div>
+                    <h3 class="text-xl font-bold text-slate-900 mb-3">Smart Expense Tracking</h3>
+                    <p class="text-slate-600 leading-relaxed">Automatically parses SMS and UPI transactions. Categorizes spending into Food, Groceries, and Recharges instantly.</p>
+                </div>
+                <div class="p-8 rounded-3xl bg-slate-50 border border-slate-100 hover:shadow-md transition-shadow reveal">
+                    <div class="w-12 h-12 bg-white rounded-xl shadow-sm flex items-center justify-center mb-6 text-finmate-teal">
+                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11 3.055A9.001 9.001 0 1020.945 13H11V3.055z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.488 9H15V3.512A9.025 9.025 0 0120.488 9z"></path></svg>
+                    </div>
+                    <h3 class="text-xl font-bold text-slate-900 mb-3">Real-time Analytics</h3>
+                    <p class="text-slate-600 leading-relaxed">Beautiful charts and dashboards give you a top-down view of your budget, spending trends, and category breakdowns.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="py-24 bg-finmate-teal text-white">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="grid md:grid-cols-2 gap-16 items-center">
+                <div class="reveal">
+                    <div class="w-16 h-16 bg-white/10 rounded-2xl flex items-center justify-center mb-8">
+                        <svg class="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"></path></svg>
+                    </div>
+                    <h2 class="text-3xl md:text-4xl font-bold mb-6">Bank-grade security. <br/>Zero cloud data sharing.</h2>
+                    <p class="text-teal-100 text-lg leading-relaxed mb-6">
+                        We believe your financial data belongs to you. Finmate uses on-device Machine Learning via SQLite and local storage. Your SMS and transaction data never leave your phone.
+                    </p>
+                    <ul class="space-y-4">
+                        <li class="flex items-center text-white font-medium"><svg class="w-5 h-5 text-teal-300 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg> On-Device AI Parsing</li>
+                        <li class="flex items-center text-white font-medium"><svg class="w-5 h-5 text-teal-300 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg> No Bank Logins Required</li>
+                        <li class="flex items-center text-white font-medium"><svg class="w-5 h-5 text-teal-300 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg> We never read OTPs or personal texts</li>
+                    </ul>
+                </div>
+                <div class="reveal relative">
+                    <div class="absolute inset-0 bg-gradient-to-r from-teal-500 to-emerald-500 rounded-3xl transform rotate-3 opacity-50 blur-lg"></div>
+                    <div class="relative bg-slate-900 border border-slate-800 p-8 rounded-3xl shadow-2xl">
+                        <div class="flex items-center justify-between border-b border-slate-800 pb-4 mb-4">
+                            <span class="text-slate-400 font-mono text-sm">src/services/smsParser.ts</span>
+                            <span class="px-2 py-1 bg-green-500/20 text-green-400 text-xs rounded-md">Local Parse</span>
+                        </div>
+                        <code class="text-sm font-mono text-teal-400 block mb-2">// Data strictly processed locally</code>
+                        <code class="text-sm font-mono text-slate-300 block">const parsed = parseSMS(sms);</code>
+                        <code class="text-sm font-mono text-slate-300 block mb-4">await database.save(parsed);</code>
+                        <div class="bg-slate-800 rounded-lg p-4">
+                            <div class="flex justify-between items-center">
+                                <span class="text-slate-400">Cloud Sync</span>
+                                <span class="text-red-400 font-bold text-sm">Disabled</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="how-it-works" class="py-24 bg-slate-900 text-white">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center max-w-3xl mx-auto mb-16 reveal">
+                <h2 class="text-3xl md:text-4xl font-bold mb-4">How Finmate Works</h2>
+                <p class="text-slate-400 text-lg">Three simple steps to absolute financial clarity.</p>
+            </div>
+            
+            <div class="grid md:grid-cols-3 gap-12 text-center relative">
+                <div class="hidden md:block absolute top-1/2 left-[15%] right-[15%] h-0.5 bg-slate-800 -translate-y-1/2 z-0"></div>
+                <div class="relative z-10 reveal">
+                    <div class="w-16 h-16 mx-auto bg-finmate-teal rounded-full flex items-center justify-center text-2xl font-bold mb-6 border-4 border-slate-900 shadow-xl">1</div>
+                    <h3 class="text-xl font-bold mb-3">Connect</h3>
+                    <p class="text-slate-400">Install the app. Finmate securely connects to your transaction data natively on your device.</p>
+                </div>
+                <div class="relative z-10 reveal" style="transition-delay: 100ms;">
+                    <div class="w-16 h-16 mx-auto bg-finmate-teal rounded-full flex items-center justify-center text-2xl font-bold mb-6 border-4 border-slate-900 shadow-xl">2</div>
+                    <h3 class="text-xl font-bold mb-3">Analyze</h3>
+                    <p class="text-slate-400">Our ML models instantly parse and categorize your spending across all platforms.</p>
+                </div>
+                <div class="relative z-10 reveal" style="transition-delay: 200ms;">
+                    <div class="w-16 h-16 mx-auto bg-finmate-teal rounded-full flex items-center justify-center text-2xl font-bold mb-6 border-4 border-slate-900 shadow-xl">3</div>
+                    <h3 class="text-xl font-bold mb-3">Insights</h3>
+                    <p class="text-slate-400">Receive proactive alerts, budget updates, and smart suggestions to optimize your wealth.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="pricing" class="py-24 bg-slate-50 border-b border-slate-100">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center max-w-3xl mx-auto mb-16 reveal">
+                <h2 class="text-3xl md:text-4xl font-bold text-slate-900 mb-4">Simple, transparent pricing</h2>
+                <p class="text-lg text-slate-600">Start controlling your finances today for free.</p>
+            </div>
+            
+            <div class="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
+                <div class="p-8 bg-white rounded-3xl border border-slate-200 shadow-sm reveal relative overflow-hidden">
+                    <div class="absolute top-0 right-0 bg-finmate-teal text-white text-xs font-bold px-3 py-1 rounded-bl-lg">CURRENT</div>
+                    <h3 class="text-2xl font-bold text-slate-900 mb-2">Beta Access</h3>
+                    <div class="text-4xl font-bold text-slate-900 mb-6">Free <span class="text-lg text-slate-500 font-normal">/forever</span></div>
+                    <p class="text-slate-600 mb-8 pb-8 border-b border-slate-100">For early adopters testing our core AI features.</p>
+                    <ul class="space-y-4 mb-8">
+                        <li class="flex items-center text-slate-700"><svg class="w-5 h-5 text-finmate-teal mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg> Local SMS Parser</li>
+                        <li class="flex items-center text-slate-700"><svg class="w-5 h-5 text-finmate-teal mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg> Auto-categorization</li>
+                        <li class="flex items-center text-slate-700"><svg class="w-5 h-5 text-finmate-teal mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg> Basic Analytics Dashboards</li>
+                    </ul>
+                    <a href="#cta" class="block w-full text-center bg-slate-900 hover:bg-finmate-teal text-white py-3 rounded-xl font-medium transition">Get App Now</a>
+                </div>
+                
+                <div class="p-8 bg-slate-900 text-white rounded-3xl border border-slate-800 shadow-xl reveal" style="transition-delay: 100ms;">
+                    <h3 class="text-2xl font-bold mb-2">Finmate Pro</h3>
+                    <div class="text-4xl font-bold mb-6">Coming Soon</div>
+                    <p class="text-slate-400 mb-8 pb-8 border-b border-slate-800">Advanced AI features for complete financial automation.</p>
+                    <ul class="space-y-4 mb-8">
+                        <li class="flex items-center text-slate-300"><svg class="w-5 h-5 text-teal-400 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg> Cloud Sync (End-to-End Encrypted)</li>
+                        <li class="flex items-center text-slate-300"><svg class="w-5 h-5 text-teal-400 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg> Multi-currency Support</li>
+                        <li class="flex items-center text-slate-300"><svg class="w-5 h-5 text-teal-400 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg> Custom ML Models</li>
+                        <li class="flex items-center text-slate-300"><svg class="w-5 h-5 text-teal-400 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg> Export to CSV/PDF</li>
+                    </ul>
+                    <button class="block w-full text-center bg-white/10 hover:bg-white/20 text-white py-3 rounded-xl font-medium transition cursor-not-allowed">Join Waitlist</button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="faq" class="py-24 bg-white border-b border-slate-100">
+        <div class="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 reveal">
+            <h2 class="text-3xl font-bold text-center text-slate-900 mb-12">Frequently Asked Questions</h2>
+            
+            <div class="space-y-4">
+                <div class="border border-slate-200 rounded-2xl bg-slate-50 overflow-hidden">
+                    <button class="faq-toggle w-full px-6 py-4 text-left flex justify-between items-center font-semibold text-slate-900 hover:text-finmate-teal focus:outline-none">
+                        <span>How does Finmate track my expenses?</span>
+                        <svg class="w-5 h-5 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                    </button>
+                    <div class="faq-answer px-6 text-slate-600 bg-white">
+                        <div class="pb-4">Finmate securely parses standard transactional SMS messages sent by your bank or UPI apps. It automatically extracts the merchant, amount, and category without requiring you to log into your bank accounts.</div>
+                    </div>
+                </div>
+                <div class="border border-slate-200 rounded-2xl bg-slate-50 overflow-hidden">
+                    <button class="faq-toggle w-full px-6 py-4 text-left flex justify-between items-center font-semibold text-slate-900 hover:text-finmate-teal focus:outline-none">
+                        <span>Is my financial data safe?</span>
+                        <svg class="w-5 h-5 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                    </button>
+                    <div class="faq-answer px-6 text-slate-600 bg-white">
+                        <div class="pb-4">Absolutely. Your data is processed entirely on-device using local SQLite databases. We do not upload your SMS data or transaction history to any external servers.</div>
+                    </div>
+                </div>
+                <div class="border border-slate-200 rounded-2xl bg-slate-50 overflow-hidden">
+                    <button class="faq-toggle w-full px-6 py-4 text-left flex justify-between items-center font-semibold text-slate-900 hover:text-finmate-teal focus:outline-none">
+                        <span>Which banks do you support?</span>
+                        <svg class="w-5 h-5 transform transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                    </button>
+                    <div class="faq-answer px-6 text-slate-600 bg-white">
+                        <div class="pb-4">Our parser currently supports standard formats from Kotak, SBI, HDFC, IPPB, and general UPI alerts. We are constantly training our models to support more institutions.</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="vision" class="py-24 bg-slate-50">
+        <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center reveal">
+            <h2 class="text-finmate-teal font-bold tracking-widest uppercase text-sm mb-4">Our Vision</h2>
+            <h3 class="text-3xl md:text-5xl font-bold text-slate-900 mb-8 leading-tight">Replace multiple tools with one intelligent system.</h3>
+            
+            <div class="max-w-2xl mx-auto bg-white p-8 rounded-2xl shadow-sm border border-slate-200 mb-12 text-left">
+                <p class="text-slate-600 mb-4">"Hi, I'm Tushar Ingle, founder of Finmate. I've been building AI systems for over a year, including financial analytics tools and embedded AI projects.</p>
+                <p class="text-slate-600 mb-6">Our goal is simple: reduce decision time and replace multiple apps with one intelligent system. We’re building fast and focused on real user problems."</p>
+                <div class="flex items-center gap-4 border-t border-slate-100 pt-4">
+                    <div>
+                        <p class="font-bold text-slate-900">Tushar Ingle</p>
+                        <p class="text-sm text-slate-500">Founder & AI Engineer</p>
+                    </div>
+                </div>
+            </div>
+
+            <div id="cta" class="max-w-md mx-auto bg-white p-2 rounded-full shadow-sm border border-slate-200 flex flex-col sm:flex-row focus-within:ring-2 focus-within:ring-finmate-teal transition-all">
+                <input type="email" placeholder="Enter your email address" class="flex-1 bg-transparent px-6 py-3 text-slate-900 focus:outline-none rounded-full" required>
+                <button type="submit" class="bg-slate-900 hover:bg-finmate-teal text-white px-8 py-3 rounded-full font-medium transition-colors mt-2 sm:mt-0">
+                    Join Waitlist
+                </button>
+            </div>
+        </div>
+    </section>
+
+    <footer class="bg-white py-12 border-t border-slate-100">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col md:flex-row justify-between items-center gap-6">
+            <div class="flex items-center gap-2">
+                <div class="w-6 h-6 bg-slate-900 rounded flex items-center justify-center">
+                    <svg class="w-3 h-3 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path></svg>
+                </div>
+                <span class="font-bold text-lg text-slate-900">Finmate</span>
+            </div>
+            
+            <div class="flex gap-8 text-sm font-medium text-slate-500">
+                <a href="mailto:globalshreni@gmail.com" class="hover:text-finmate-teal transition">Contact</a>
+                <a href="https://github.com/Tushar100704/FINMATE" target="_blank" rel="noopener noreferrer" class="hover:text-finmate-teal transition">GitHub</a>
+                <a href="https://www.linkedin.com/in/tushar-ingle" target="_blank" rel="noopener noreferrer" class="hover:text-finmate-teal transition">LinkedIn</a>
+                <a href="#" class="hover:text-finmate-teal transition">Privacy</a>
+            </div>
+            
+            <div class="text-sm text-slate-400">
+                &copy; 2026 Finmate. All rights reserved.
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            // Scroll Animation
+            const reveals = document.querySelectorAll('.reveal');
+            const revealOnScroll = () => {
+                const windowHeight = window.innerHeight;
+                const elementVisible = 100;
+                reveals.forEach((reveal) => {
+                    const elementTop = reveal.getBoundingClientRect().top;
+                    if (elementTop < windowHeight - elementVisible) {
+                        reveal.classList.add('active');
+                    }
+                });
+            }
+            window.addEventListener('scroll', revealOnScroll);
+            revealOnScroll();
+
+            // FAQ Accordion
+            const faqToggles = document.querySelectorAll('.faq-toggle');
+            faqToggles.forEach(toggle => {
+                toggle.addEventListener('click', () => {
+                    const answer = toggle.nextElementSibling;
+                    const icon = toggle.querySelector('svg');
+                    
+                    // Close all others
+                    faqToggles.forEach(otherToggle => {
+                        if (otherToggle !== toggle) {
+                            otherToggle.nextElementSibling.style.maxHeight = null;
+                            otherToggle.querySelector('svg').style.transform = 'rotate(0deg)';
+                        }
+                    });
+
+                    // Open/Close current
+                    if (answer.style.maxHeight) {
+                        answer.style.maxHeight = null;
+                        icon.style.transform = 'rotate(0deg)';
+                    } else {
+                        answer.style.maxHeight = answer.scrollHeight + "px";
+                        icon.style.transform = 'rotate(180deg)';
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>
