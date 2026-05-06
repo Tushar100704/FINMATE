@@ -2,7 +2,7 @@
 
 An AI-powered cross-platform application that automatically tracks and categorizes UPI transactions, helping users manage expenses smarter and faster.
 
-🔗 Live Demo: https://finmate-two-xi.vercel.app
+🔗 Live Demo: https://finmate-two-xi.vercel.app/
 
 A cross-platform mobile app for automatically tracking and analyzing UPI transactions with AI-powered categorization.
 
