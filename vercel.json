@@ -1,15 +1,11 @@
 {
   "version": 2,
-  "buildCommand": "echo 'Static HTML site'",
-  "public": false,
+  "buildCommand": "echo Building static site",
+  "outputDirectory": ".",
   "routes": [
     {
-      "src": "^/(?!FinMate-main|gemini-code)",
-      "dest": "/index.html"
-    },
-    {
       "src": "/(.*)",
-      "dest": "/$1"
+      "dest": "/index.html"
     }
   ],
   "headers": [
@@ -21,29 +17,17 @@
           "value": "public, max-age=0, must-revalidate"
         },
         {
-          "key": "Content-Security-Policy",
-          "value": "default-src 'self' 'unsafe-inline' 'unsafe-eval' https:; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://cdn.tailwindcss.com https://fonts.googleapis.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com"
-        },
-        {
           "key": "X-Content-Type-Options",
           "value": "nosniff"
         },
         {
           "key": "X-Frame-Options",
           "value": "SAMEORIGIN"
-        },
-        {
-          "key": "X-XSS-Protection",
-          "value": "1; mode=block"
-        },
-        {
-          "key": "Referrer-Policy",
-          "value": "strict-origin-when-cross-origin"
         }
       ]
     },
     {
-      "source": "/(.*\\.(js|css|woff|woff2|ttf|otf|eot))",
+      "source": "/(.*\\.(js|css|woff|woff2|ttf|otf|eot|png|jpg|jpeg|gif|svg))",
       "headers": [
         {
           "key": "Cache-Control",
