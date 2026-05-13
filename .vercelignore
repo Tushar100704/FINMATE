@@ -1,0 +1,7 @@
+FinMate-main/
+.git/
+node_modules/
+gemini-code-*.html
+*.md
+.env
+.env.local

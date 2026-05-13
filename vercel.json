@@ -1,19 +1,11 @@
 {
   "version": 2,
+  "buildCommand": "echo 'Static HTML site'",
   "public": false,
-  "buildCommand": "echo 'Static site - no build required'",
-  "outputDirectory": ".",
-  "builds": [
-    {
-      "src": "index.html",
-      "use": "@vercel/static"
-    }
-  ],
   "routes": [
     {
-      "src": "/(?!.*\\.)",
-      "dest": "/index.html",
-      "status": 200
+      "src": "^/(?!FinMate-main|gemini-code)",
+      "dest": "/index.html"
     },
     {
       "src": "/(.*)",
@@ -59,9 +51,5 @@
         }
       ]
     }
-  ],
-  "env": [
-    "NODE_ENV"
-  ],
-  "envPrefix": "VERCEL_"
+  ]
 }
